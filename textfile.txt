@@ -1,0 +1,21 @@
+sleung
+password
+Tuesday
+Doctor Who, 2005, Saturday, 9:00 pm, SciFi
+Mr. Robot, 2015, Wednesday, 10:00 pm, Drama
+Skam, 2015, Friday, 2:25 pm, Drama
+The Flash, 2014, Tuesday, 8:00 pm, Action
+Supergirl, 2015, Monday, 8:00 pm, Action
+Agents of SHIELD, 2013, Tuesday, 10:00 pm, Action
+Class, 2017, Saturday, 5:00 am, SciFi
+Imposters, 2017, Tuesday, 10:00 pm, Drama
+Powerless, 2017, Thursday, 8:30 pm, Comedy
+Riverdale, 2017, Thursday, 9:00 pm, Drama
+The Magicians, 2015, Wednesday, 9:00 pm, Fantasy
+The Originals, 2013, Friday, 9:00 pm, Fantasy
+Westworld, 2016, Sunday, 9:00 pm, SciFi
+Legion, 2017, Wednesday, 10:00 pm, SciFi
+Fresh Off the Boat, 2015, Tuesday, 9:00 pm, Comedy
+Shadowhunters, 2016, Monday, 8:00 pm, Fantasy
+Brooklyn Nine Nine, 2013, Tuesday, 8:00 pm, Comedy
+NCIS, 2003, Tuesday, 8:00 pm, Action
